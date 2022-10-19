@@ -1,0 +1,11 @@
+[
+    {"id": 1, "nombre": "Sillon Denver", "precio": 23000, "cantidad": 1 },
+    {"id": 2, "nombre": "Escritorio Esquinero", "precio": 85000, "cantidad": 1 },
+    {"id": 3, "nombre": "Mesa Boulogne", "precio": 30000, "cantidad": 1 },
+    {"id": 4, "nombre": "Mesa Tor", "precio": 26000, "cantidad": 1 },
+    {"id": 5, "nombre": "Acra New", "precio": 8000, "cantidad": 1 },
+    {"id": 6, "nombre": "Silla Florence", "precio": 5000, "cantidad": 1 },
+    {"id": 7, "nombre": "Silla North Park", "precio": 7000, "cantidad": 1 },
+    {"id": 7, "nombre": "Sillon Kala", "precio": 105000, "cantidad": 1 }
+
+]

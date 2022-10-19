@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    border: 0;
+    margin: 0;
+  }
+ 
+
+  main .card {
+    border: 0;
+    background-color: white;
+  }
+  main .card .card-img-top {
+    border-radius: 30px;
+  }
+  main .card .card-body {
+    background-color: white;
+    text-align: center;
+  }
+  main .card .card-body h4 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  main .card .card-body .btn-primary {
+    background-color: rgb(73, 133, 133);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    border-radius: 13px;
+    border-color: white;
+    width: 150px;
+    
+  }
+  main .card .card-body .card-title {
+    text-align: center;
+    margin-top: 20px;
+  }
+  main .card .card-body .card-text {
+    text-align: center;
+    margin-top: 25px;
+  }
+  main .btn-primary{
+    background-color: rgb(73, 133, 133);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    
+    border-color: white;
+    padding: 10px;
+    width: 150px;;
+    margin: 10px;
+  }
+
+  .toasti{
+    background-color: brown;
+  }
+
+  .comprarTodo{
+    background-color: rgb(73, 133, 133);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    
+    border-color: white;
+    padding: 10px;
+    width: 150px;;
+    margin: 10px;
+  }
